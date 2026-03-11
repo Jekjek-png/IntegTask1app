@@ -8,7 +8,7 @@ st.subheader("Our Target Users", divider="orange", text_alignment="left", width=
 st.markdown ('''PeraLista is specifically designed for :blue-background[individuals who want to start managing their finances]. This application is ideal for individuals who are looking for a simple and clean financial tracker UI. ''', text_alignment="justify")
 
 st.subheader("Key Features", divider="orange", text_alignment="left", width="content")
-st.markdown('''PeraLista takes :blue-background[username, email, income, and expenses as input and displays it through graphs and structured text formats such as total income, total expenses, current balance, and transacti on history.] ''', text_alignment="justify")
+st.markdown('''PeraLista takes :blue-background[username, email, income, and expenses as input and displays it through graphs and structured text formats such as total income, total expenses, current balance, and transaction on history.] ''', text_alignment="justify")
 st.subheader("UI components used", divider="orange", text_alignment="left", width="content")
 
 col1, col2 = st.columns(2)
